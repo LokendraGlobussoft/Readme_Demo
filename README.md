@@ -70,14 +70,14 @@ Navigate to `http://localhost:9001`
 
   swagger-ui  Endpoint for Project Management : http://localhost:9000/explorer/
 
-## Getting started
+## 🏃 Getting started
 - Login to to work management from project swagger link and get access toke
 - Using access token user is able to run task APIs
 - In postman in the headers add 
   - Key as x-access-token and 
   - Value as access token generated from user login 
 
-## Project structure
+## 📁 Project structure
 ```bash
 ├── config                    
 │   ├── localDev.json       # Config file for local development
