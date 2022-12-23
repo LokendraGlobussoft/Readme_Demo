@@ -32,8 +32,8 @@
   "customTaskStatus": 5,
   "mongo_atlas_enabled": false,
   "mongo_atlas_url": "",
-  "token_secret": "SAkjSOciObOard_7541",
-  "user_token_secret": "Emp_Work_management_7541"
+  "token_secret": "add token secret here",
+  "user_token_secret": "add token secret here"
 }
 ```
 
